@@ -1,2 +1,2 @@
 # gdi_github
-readme
+readme for GDI github course
